@@ -31,6 +31,3 @@ Athena uses a **XGBoost** model trained on the IEEE-CIS Fraud Detection dataset,
 | **Frontend** | `Streamlit` | Analyst Dashboard |
 | **Deployment** | `Streamlit Cloud` | Hosting |
 
----
-
-### 📂 Project Structure
