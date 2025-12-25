@@ -44,7 +44,6 @@ Athena-Fraud-Detection/
 ├── requirements.txt # Python dependencies
 └── README.md # Documentation
 
-text
 
 ### 🚀 How to Run Locally
 
@@ -52,17 +51,14 @@ text
 git clone https://github.com/santiago-torterolo/Athena-Fraud-Detection.git
 cd Athena-Fraud-Detection
 
-text
 
 2. **Install dependencies**
 pip install -r requirements.txt
 
-text
 
 3. **Run the App**
 streamlit run app.py
 
-text
 
 ---
 
