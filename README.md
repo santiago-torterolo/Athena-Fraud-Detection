@@ -16,7 +16,7 @@ In modern fintech, static rules are not enough. Fraudsters use sophisticated tec
 Athena uses a **XGBoost** model trained on a synthetic dataset mirroring **IEEE-CIS** patterns, enhanced with a **Behavioral Layer** that analyzes device fingerprints and user velocity.
 
 ### 📐 System Architecture
-![Athena Architecture Diagram](docs/architecture_diagram.jpg)
+![Athena Architecture Diagram](https://github.com/santiago-torterolo/Athena-Fraud-Detection/blob/main/architecture_diagram.png)
 
 #### Key Features
 1.  **ML Core:** Gradient Boosting model optimized for imbalanced datasets (Fraud < 1%).
